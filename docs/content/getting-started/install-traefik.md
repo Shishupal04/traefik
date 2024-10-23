@@ -126,7 +126,7 @@ Grab the latest binary from the [releases](https://github.com/traefik/traefik/re
     tar -zxvf traefik_${traefik_version}_linux_${arch}.tar.gz
     ```
 
-    ```bash tab="macOS"
+    ```bash tab="macOS"            
     tar -zxvf ./traefik_${traefik_version}_darwin_amd64.tar.gz
     ```
 
